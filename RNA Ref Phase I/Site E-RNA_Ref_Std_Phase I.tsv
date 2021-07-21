@@ -1,0 +1,19 @@
+##analysisDate=2017-06-28-12-44-37000										
+##analyzedBy=RingStudy Site E										
+##exportDate=2017-11-08-12-55-29000										
+##analysisName=Site E-R1-RNA_REF-PHASE1										
+##workflowName=Oncomine Focus w2.1 - Fusions - Single Sample										
+##sampleNames=Site E-R1-RNA_REF-C-R_RNA_v1										
+##reference=hg19										
+##variantGroup=DEFAULT										
+##filterChain=Site D_NoRef										
+##searchText=										
+##chromosome=All										
+##totalVariantCount=280										
+##filterInCount=3										
+##filteredOutCount=277										
+##hiddenVariantCount=0										
+Locus	Type	Genes (Exons)	Read Counts	Oncomine Variant Class	Oncomine Gene Class	Detection	3'/5' Imbalance	COSMIC/NCBI	Variant ID	Read Counts Per Million
+"chr2:29551347, chr2:29430138"	ASSAYS_5P_3P	ALK	"0,38"			NoCall	0.0391		"ALK.5p_NM_004304.4.e5e6,ALK.3p_NM_004304.4.e23e24"	"0.0000,1.7584e-08"
+chr4:25665952 - chr6:117650609	FUSION	SLC34A2(4) - ROS1(32)	466			NoCall		COSF1197	SLC34A2-ROS1.S4R32.COSF1197	2.16E-07
+"chr10:43606730, chr10:43622086"	ASSAYS_5P_3P	RET	"0,670"			NoCall	0.6886		"RET.5p_NM_020975.4.e6e7,RET.3p_NM_020975.4.e18e19"	"0.0000,3.1004e-07"

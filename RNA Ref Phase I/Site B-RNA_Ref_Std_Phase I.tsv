@@ -1,0 +1,25 @@
+##analysisDate=2017-11-08-10-57-18000										
+##analyzedBy=RingStudy Site B										
+##exportDate=2017-11-08-13-31-09000										
+##analysisName=Site B-R1-REF-C-R_RNA phase I										
+##workflowName=Oncomine Focus w2.1 - Fusions - Single Sample										
+##sampleNames=Site B-R1-REF-C-R_RNA_v1										
+##reference=hg19										
+##variantGroup=DEFAULT										
+##filterChain=Site D_NoRef										
+##searchText=										
+##chromosome=All										
+##totalVariantCount=281										
+##filterInCount=9										
+##filteredOutCount=272										
+##hiddenVariantCount=0										
+Locus	Type	Genes (Exons)	Read Counts	Oncomine Variant Class	Oncomine Gene Class	Detection	3'/5' Imbalance	COSMIC/NCBI	Variant ID	Read Counts Per Million
+"chr1:156834532, chr1:156851323"	ASSAYS_5P_3P	NTRK1	"0,129"			NoCall	0.0021		"NTRK1.5p.eNST00000392302.e2e3,NTRK1.3p.eNST00000392302.e17e18"	"0.0000,1.5443e-09"
+"chr2:29551347, chr2:29430138"	ASSAYS_5P_3P	ALK	"0,1247"			Present	0.0205		"ALK.5p_NM_004304.4.e5e6,ALK.3p_NM_004304.4.e23e24"	"0.0000,1.4929e-08"
+chr2:42522656 - chr2:29446394	FUSION	EML4(13) - ALK(20)	59	Fusion	Gain-of-function	Present		AB462411	EML4-ALK.E13A20.AB462411	7.06E-10
+chr4:25665952 - chr6:117650609	FUSION	SLC34A2(4) - ROS1(32)	4523	Fusion	Gain-of-function	Present		COSF1197	SLC34A2-ROS1.S4R32.COSF1197	5.41E-08
+chr4:25665952 - chr6:117645578	FUSION	SLC34A2(4) - ROS1(34)	73	Fusion	Gain-of-function	Present		COSF1198	SLC34A2-ROS1.S4R34.COSF1198	8.74E-10
+chr4:25665952 - chr6:117641193	FUSION	SLC34A2(4) - ROS1(36)	1256			Present-Non-Targeted			SLC34A2-ROS1.S4R36.Non-Targeted	1.50E-08
+"chr6:117711009, chr6:117632280"	ASSAYS_5P_3P	ROS1	"492,593"			"Absent, LOW_5P_3P_IMBALANCE_SCORE"	0.0418		"ROS1.5p_NM_002944.2.e11e12,ROS1.3p_NM_002944.2.e38e39"	"5.8661e-10,3.1042e-08"
+"chr10:43606730, chr10:43622086"	ASSAYS_5P_3P	RET	"64,512,052"			NoCall	0.1875		"RET.5p_NM_020975.4.e6e7,RET.3p_NM_020975.4.e18e19"	"7.7217e-09,1.4428e-07"
+chr10:61665879 - chr10:43612031	FUSION	CCDC6(1) - RET(12)	53	Fusion	Gain-of-function	Present		COSF1271	CCDC6-RET.C1R12.COSF1271	6.34E-10

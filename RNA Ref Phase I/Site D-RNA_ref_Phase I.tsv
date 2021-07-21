@@ -1,0 +1,23 @@
+##analysisDate=2017-11-06-11-17-43000										
+##analyzedBy=RingStudy Site D										
+##exportDate=2017-11-06-13-48-46000										
+##analysisName=Site D -RNA_ref phase I										
+##workflowName=Oncomine Focus w2.1 - Fusions - Single Sample										
+##sampleNames=RNA_ref_RNA_v1										
+##reference=hg19										
+##variantGroup=DEFAULT										
+##filterChain=Site D_NoRef										
+##searchText=										
+##chromosome=All										
+##totalVariantCount=280										
+##filterInCount=7										
+##filteredOutCount=273										
+##hiddenVariantCount=0										
+Locus	Type	Genes (Exons)	Read Counts	Oncomine Variant Class	Oncomine Gene Class	Detection	3'/5' Imbalance	COSMIC/NCBI	Variant ID	Read Counts Per Million
+"chr2:29551347, chr2:29430138"	ASSAYS_5P_3P	ALK	"0,143"			Present	0.0115		"ALK.5p_NM_004304.4.e5e6,ALK.3p_NM_004304.4.e23e24"	"0.0000,4.0731e-09"
+chr2:42522656 - chr2:29446394	FUSION	EML4(13) - ALK(20)	228	Fusion	Gain-of-function	Present		AB462411	EML4-ALK.E13A20.AB462411	6.49E-09
+chr4:25665952 - chr6:117650609	FUSION	SLC34A2(4) - ROS1(32)	9183	Fusion	Gain-of-function	Present		COSF1197	SLC34A2-ROS1.S4R32.COSF1197	2.62E-07
+chr4:25665952 - chr6:117645578	FUSION	SLC34A2(4) - ROS1(34)	244	Fusion	Gain-of-function	Present		COSF1198	SLC34A2-ROS1.S4R34.COSF1198	6.95E-09
+"chr6:117711009, chr6:117632280"	ASSAYS_5P_3P	ROS1	"1,838,421"			Present	0.6603		"ROS1.5p_NM_002944.2.e11e12,ROS1.3p_NM_002944.2.e38e39"	"5.2125e-09,2.3986e-07"
+"chr10:43606730, chr10:43622086"	ASSAYS_5P_3P	RET	"6,483,331"			Present	0.215		"RET.5p_NM_020975.4.e6e7,RET.3p_NM_020975.4.e18e19"	"1.8457e-08,9.4879e-08"
+chr10:61665879 - chr10:43612031	FUSION	CCDC6(1) - RET(12)	237	Fusion	Gain-of-function	Present		COSF1271	CCDC6-RET.C1R12.COSF1271	6.75E-09

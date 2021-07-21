@@ -1,0 +1,28 @@
+##analysisDate=2017-05-10-14-12-08000										
+##analyzedBy=RingStudy Site F										
+##exportDate=2017-11-08-10-56-25000										
+##analysisName=Site F-RNA_Ref-C_RNA										
+##workflowName=Oncomine Comprehensive v3 - w2.1 - Fusions - Single Sample										
+##sampleNames=Site F-RNA_Ref-C_RNA_v1										
+##reference=hg19										
+##variantGroup=DEFAULT										
+##filterChain=Site D_NoRef										
+##searchText=										
+##chromosome=All										
+##totalVariantCount=867										
+##filterInCount=12										
+##filteredOutCount=855										
+##hiddenVariantCount=0										
+Locus	Type	Genes (Exons)	Read Counts	Oncomine Variant Class	Oncomine Gene Class	Detection	3'/5' Imbalance	COSMIC/NCBI	Variant ID	Read Counts Per Million
+chr1:204494724	GENE_EXPRESSION	MDM4	260			Present			MDM4.E3E4	2.92E-09
+chr2:42522656 - chr2:29446394	FUSION	EML4(13) - ALK(20)	55	Fusion	Gain-of-function	Present		AB462411	EML4-ALK.E13A20.AB462411	6.18E-10
+chr4:25665952 - chr6:117650609	FUSION	SLC34A2(4) - ROS1(32)	45499	Fusion	Gain-of-function	Present		COSF1196	SLC34A2-ROS1.S4R32.COSF1196	5.11E-07
+chr4:25665952 - chr6:117645578	FUSION	SLC34A2(4) - ROS1(34)	201	Fusion	Gain-of-function	Present		COSF1198	SLC34A2-ROS1.S4R34.COSF1198	2.26E-09
+chr7:55220357	GENE_EXPRESSION	EGFR	3973			Present			EGFR.E6E7	4.46E-08
+chr7:55269048	GENE_EXPRESSION	EGFR	5621			Present			EGFR-EGFR.E25E18.KDD	6.32E-08
+chr7:55269475	GENE_EXPRESSION	EGFR	26			Present			EGFR.E26E27	2.92E-10
+chr7:116395569	GENE_EXPRESSION	MET	2524			Present			MET.E7E8	2.84E-08
+chr13:32899321	GENE_EXPRESSION	BRCA2	1763			Present			BRCA2.E5E6	1.98E-08
+chr17:41226462	GENE_EXPRESSION	BRCA1	38			Present			BRCA1-BRCA1.B13B15.V14es	4.27E-10
+chr17:41226462	GENE_EXPRESSION	BRCA1	85			Present			BRCA1-BRCA1.B4B15.V5es	9.55E-10
+chrX:66942826	GENE_EXPRESSION	AR	766			Present			AR.E7E8	8.61E-09
