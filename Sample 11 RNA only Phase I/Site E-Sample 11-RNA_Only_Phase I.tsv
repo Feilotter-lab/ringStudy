@@ -1,0 +1,19 @@
+##analysisDate=2017-06-28-12-46-02000
+##analyzedBy=RingStudy Site E
+##exportDate=2017-11-08-12-55-45000
+##analysisName=Site E-R5-Sample 11-F-R_RNA
+##workflowName=Oncomine Focus w2.1 - Fusions - Single Sample
+##sampleNames=Site E-R5-Sample 11-F-R_RNA_v1
+##reference=hg19
+##variantGroup=DEFAULT
+##filterChain=Site D_NoRef
+##searchText=
+##chromosome=All
+##totalVariantCount=280
+##filterInCount=3
+##filteredOutCount=277
+##hiddenVariantCount=0
+Locus	Type	Genes (Exons)	Read Counts	Oncomine Variant Class	Oncomine Gene Class	Detection	3'/5' Imbalance	COSMIC/NCBI	Variant ID	Read Counts Per Million
+chr1:156834532, chr1:156851323	ASSAYS_5P_3P	NTRK1	0,1024			NoCall	0.0021		NTRK1.5p.eNST00000392302.e2e3,NTRK1.3p.eNST00000392302.e17e18	0.0000,2.0420e-09
+chr2:29551347, chr2:29430138	ASSAYS_5P_3P	ALK	8704,244			Absent, LOW_5P_3P_IMBALANCE_SCORE	-0.0173		ALK.5p_NM_004304.4.e5e6,ALK.3p_NM_004304.4.e23e24	1.7357e-08,4.8656e-10
+chr10:43606730, chr10:43622086	ASSAYS_5P_3P	RET	1502,0			Absent, LOW_5P_3P_IMBALANCE_SCORE	-0.0031		RET.5p_NM_020975.4.e6e7,RET.3p_NM_020975.4.e18e19	2.9951e-09,0.0000
